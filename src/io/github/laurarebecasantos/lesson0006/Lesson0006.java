@@ -17,6 +17,8 @@ class Lesson0006 {
 		
 		System.out.println( s + result);
 		
+		
+		
 		/* Ps.: Lesson0006
 		 * Initializing two variables for operation math.
 		 * 
