@@ -11,7 +11,7 @@ class Lesson0005 {
 		
 		System.out.println(t);
 		
-		/*Obs.: Lesson05
+		/* Obs.: Lesson05
 		 * Sobre variavel: int idade; -> inicializando variavel sem valor..
 		 * int idade = 27; -> inicializando variavel com valor.. 
 		 * int idade = null; -> inicializando com valor default..
