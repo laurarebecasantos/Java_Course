@@ -15,8 +15,8 @@ class Lesson0008 {
 		ageDog = ageDog * 7;
 		System.out.println(name + " , your dog has: " + ageDog + " years.");
 
-		/*
-		 * Ps.: Lesson0008
+
+		/* Ps.: Lesson0008
 		 * Capture of data for variables String and Int.
 		 * 
 		 */
