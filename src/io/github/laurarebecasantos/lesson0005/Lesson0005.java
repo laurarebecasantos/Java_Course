@@ -16,11 +16,10 @@ class Lesson0005 {
 		 * int idade = 27; -> inicializando variavel com valor.. 
 		 * int idade = null; -> inicializando com valor default..
 		 * 
-		 * !Importante: Validar convenção de nomeclaturas Java.
+		 * Importante: Validar convenção de nomeclaturas Java.
 		 * 
 		 * Ao iniciar a variavel com valor, é possivel imprimir ela dentro do println 
 		 * chamando-a pelo nome, pois ela foi inicializada.
-		 * 
 		 */
 	}
 }
