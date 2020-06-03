@@ -6,7 +6,7 @@ class Lesson0013 {
 
 	public static void main(String[] args) {
 		
-		int operation= 0;
+		double operation= 0;
 		double n1, n2, result;
 		
 		Scanner in = new Scanner(System.in);
