@@ -34,7 +34,11 @@ class Lesson0012 {
 			System.out.println("Sorry " + name + ", you didn't, your grade is: " + result + ".");
 		}
 		
-		
+		/* Lesson0012
+		 * Calculating grades
+		 * Programming for calculating notes with mathematical operators
+		 * 
+		 */
 		
 	}
 }
