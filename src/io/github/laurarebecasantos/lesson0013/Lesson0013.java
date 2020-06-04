@@ -20,10 +20,10 @@ class Lesson0013 {
 		System.out.println(" ");
 		System.out.println("1. Sum " + "2. Subtract " + "3. Multiplication " + "4. Division");
 		
-		operation = in.nextInt();
+		operation = in.nextDouble();
 		while(operation > 4 || operation == 0) {
 			System.out.println("Enter one of the four options above: ");
-			operation = in.nextInt();
+			operation = in.nextDouble();
 		}
 
 			System.out.println(" ");
