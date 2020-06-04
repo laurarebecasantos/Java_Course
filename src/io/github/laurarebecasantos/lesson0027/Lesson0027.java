@@ -15,7 +15,7 @@ class Lesson0027 {
 		}
 		
 		/* Lesson0027
-		 * repeat loop Do/While
+		 * Repeat loop Do/While
 		 * 
 		 * Unlike While that only executes if the 
 		 * expression is true, Do While executes at least once.
