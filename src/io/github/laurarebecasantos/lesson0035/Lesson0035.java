@@ -21,6 +21,16 @@ class Lesson0035 {
 							 "Invalid option";
 		System.out.println("Your favorite day is: " + day);
 		
+		
+		/* Lesson0035
+		 * Ternary condition II
+		 * 
+		 * This is another way to use the ternary condition
+		 *  to keep the code simplified, but despite the simplicity, 
+		 *  the Switch / Case is still a more intuitive and more 
+		 *  suitable condition for this type of code.
+		 * 
+		 */
 	}
 
 }
