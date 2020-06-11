@@ -41,7 +41,6 @@ class Lesson0036 {
 		
 		/* Lesson0036
 		 * Break instruction
-		 * Continue instruction
 		 * 
 		 * To end a repeat loop
 		 * 
