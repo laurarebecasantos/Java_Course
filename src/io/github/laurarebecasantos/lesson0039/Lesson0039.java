@@ -10,14 +10,27 @@ class Lesson0039 {
 		 * }
 		 */
 
+		/*
+		 * System.out.println("I will print the even values from 0 to 10: "); for (int
+		 * i=0; i<=100; i++) { if (i%2 == 0) System.out.println(i); else continue;
+		 * System.out.println("-"); System.out.println("-"); System.out.println("-"); }
+		 * 
+		 */
+
 		System.out.println("I will print the even values from 0 to 10: ");
-		for (int i=0; i<100; i++) {
-			if (1%2 == 0)
+		for (int i = 0; i <= 100; i++) {
+			if (i % 2 == 0)
 				System.out.println(i);
 			else
 				continue;
-
-			System.out.println("-");
+		int a = 0, soma = 0;
+		while(a<=i) {
+			i++;
+			
+			soma += i;
+		}
+		
+		System.out.println();
 		}
 	}
 
