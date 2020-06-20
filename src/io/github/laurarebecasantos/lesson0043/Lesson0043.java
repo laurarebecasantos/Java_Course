@@ -6,8 +6,8 @@ class Lesson0043 {
 		
 		// int[] arrInt = new int[5];
 		
-		int[] array;
-		array = new int[10];
+		int[] array; //array declaration;
+		array = new int[10]; //creates and reserves space for our array
 		
 		for (int i=0; i<=9; i++) {
 			System.out.printf("%5d%7d\n", i, array[i]);
@@ -15,9 +15,17 @@ class Lesson0043 {
 			
 		}
 		
-		
+				
 		/* Lesson0043
 		 * Array list
+		 * 
+		 * array variable declaration
+		 * //<type>[] <name>;
+		 * int[] list;
+		 * list = new int[5];
+		 * 
+		 * using printf [formatation] for the array.
+		 * using FOR for looping the array 
 		 * 
 		 * 
 		 */
