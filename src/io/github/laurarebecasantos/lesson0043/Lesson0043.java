@@ -17,7 +17,7 @@ class Lesson0043 {
 		
 		
 		/* Lesson0043
-		 * 
+		 * Array list
 		 * 
 		 * 
 		 */
