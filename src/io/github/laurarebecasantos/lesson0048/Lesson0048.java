@@ -11,8 +11,7 @@ class Lesson0048 {
 		 * 
 		 * String array.
 		 * 
-		 * 
-		 * 
+		 * Everything described in the notebook
 		 */
 	}
 	
