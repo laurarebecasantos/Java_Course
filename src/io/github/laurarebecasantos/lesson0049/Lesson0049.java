@@ -18,7 +18,14 @@ class Lesson0049 {
 			values[0] = in.nextInt();	
 		}
 		
+		
 		System.out.println(Arrays.toString(values));
 	}
+
 	
+	/* Lesson0049
+	 * 
+	 * 
+	 * 
+	 */
 }
