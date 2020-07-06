@@ -15,7 +15,7 @@ class Lesson0049 {
 		for(int i=0; i<7; i++) {
 			
 			System.out.printf("Imput a number [%d]: ", i+1);
-			values[0] = in.nextInt();	
+			values[i] = in.nextInt();	
 		}
 		
 		
@@ -24,8 +24,13 @@ class Lesson0049 {
 
 	
 	/* Lesson0049
+	 * Array Exercise
+	 * 
+	 * Add up all the numbers and display it on the screen.
 	 * 
 	 * 
+	 * Using for.
+	 * Array.toString Method
 	 * 
 	 */
 }
