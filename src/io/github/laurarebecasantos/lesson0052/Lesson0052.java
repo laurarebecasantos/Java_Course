@@ -15,7 +15,7 @@ class Lesson0052 {
 		 * Multidimensional arrays
 		 * 
 		 * Multidimensional array declaration:
-		 * <type>[][]<name>=new<type>[column][line];
+		 * <type>[][]<name>=new<type>[line][column];
 		 * 
 		 */
 	}
