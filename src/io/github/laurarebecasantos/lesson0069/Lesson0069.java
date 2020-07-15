@@ -1,4 +1,5 @@
 package io.github.laurarebecasantos.lesson0069;
+
 class Rectangle {
 	public int width, height;
 	
