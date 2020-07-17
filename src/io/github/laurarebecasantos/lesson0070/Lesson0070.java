@@ -28,7 +28,8 @@ public class Lesson0070 {
 		
 		//NullPointerException
 		
-	     /* Lesson0070
+	    /* Lesson0070
+	     * Class instance
 		 * 
 		 * Null Pointer Exception
 		 * The class method cannot be called without the class being instantiated.
