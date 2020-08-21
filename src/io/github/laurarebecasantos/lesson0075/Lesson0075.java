@@ -21,7 +21,7 @@ class Window {
 		
 	}
 	
-	Window(){
+	Window(){ //Overloading
 		System.out.println(width);
 	}
 }
