@@ -33,7 +33,8 @@ class Lesson0078 {
 		
 		
 		/*
-		 * Lesson0078 Java exercises 02 - Printing texts and numbers
+		 * Lesson0078 
+		 * Java exercises 02 - Printing texts and numbers
 		 * 
 		 * System.out.print("\n") : skip the line
 		 * System.out.print : just prints
