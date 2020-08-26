@@ -5,6 +5,8 @@ import java.util.Scanner;
 class Lesson0082 {
 
 	public static void main (String[] args) {
+		
+		
 	/*
 	 * Rewrite the following code to use as few lines as possible: Grades): Stacking
 	 * lines does not solve the problem. The following code is not simplification
