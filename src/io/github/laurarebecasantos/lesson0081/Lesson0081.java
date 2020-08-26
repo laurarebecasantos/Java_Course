@@ -34,8 +34,8 @@ class Lesson0081 {
 		}
 
 		/*
-		 * Lesson0081 Java exercises 
-		 * 05 - Login and password
+		 * Lesson0081 
+		 * Java exercises 05 - Login and password
 		 * 
 		 * String comparison
 		 * Function .equals()
