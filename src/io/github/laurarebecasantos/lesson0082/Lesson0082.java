@@ -36,17 +36,10 @@ class Lesson0082 {
 	
 	/*
 	 * Lesson0082
-<<<<<<< HEAD
-	 * Java exercises 05 - Simplifying the code
-	 * 
-	 * if ternary
-	 * printf %s
-=======
 	 * Java exercises 06 - Simplifying the code
 	 * 
 	 * if ternary
 	 * printf(%s)
->>>>>>> 532b515... Java exercises 06 - Simplifying the code
 	 * \n
 	 * 
 	 */
