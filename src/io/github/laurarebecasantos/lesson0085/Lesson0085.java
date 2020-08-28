@@ -29,7 +29,7 @@ class Lesson0085 {
 		
 		
 		/* Lesson0085
-		 * Java exercise 09 - Sum of all numbers in a range
+		 * Java exercises 09 - Sum of all numbers in a range
 		 * 
 		 * while
 		 * increment
